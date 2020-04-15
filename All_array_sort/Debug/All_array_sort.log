@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (All_array_sort.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  All_array_sort.cpp
+C:\Users\Sonyc\source\repos\All_array_sort\All_array_sort\All_array_sort.cpp(26,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\Sonyc\source\repos\All_array_sort\All_array_sort\All_array_sort.cpp(35,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Sonyc\source\repos\All_array_sort\All_array_sort\All_array_sort.cpp(36,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  All_array_sort.vcxproj -> C:\Users\Sonyc\source\repos\All_array_sort\Debug\All_Sorts.exe
